@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MeuDiarioAcademico",
+    "slug": "meu-diario-academico",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
