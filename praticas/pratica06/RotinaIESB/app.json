@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "RotinaIESB",
+    "slug": "rotina-iesb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
