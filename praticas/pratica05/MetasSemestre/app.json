@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "MetasSemestre",
+    "slug": "metas-semestre",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
